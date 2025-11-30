@@ -1,2 +1,7 @@
-# java_course
-repository for the Java course
+# Практика #1
+Объясните, зачем нужны следующие аннотации и приведите примеры их использования.
+
+- @Override
+- @Deprecated
+- @SuppressWarnings
+
