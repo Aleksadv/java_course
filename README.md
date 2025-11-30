@@ -1,2 +1,2 @@
-# java_course
-repository for the Java course
+# Практика #1
+Приведите пример собственного класса исключения.
