@@ -1,2 +1,1 @@
-# java_course
-repository for the Java course
+# Изучите утилиту javadoc и научитесь ее пользоваться.
