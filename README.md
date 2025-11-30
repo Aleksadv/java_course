@@ -1,2 +1,7 @@
-# java_course
-repository for the Java course
+Практика #1
+Как можно проинициализировать константу, которая объявлена следующим образом? Приведите все возможные варианты.
+```
+public class A {
+    public final int a;
+}
+```
